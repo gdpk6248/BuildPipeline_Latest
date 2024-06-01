@@ -1,0 +1,6 @@
+README.md
+pom.xml
+Dockerfile
+src/
+target/
+!target/wezvatech-springboot-mysql-9739110917.jar
